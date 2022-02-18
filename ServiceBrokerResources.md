@@ -49,7 +49,7 @@
 * [Completing a Conversation Between Databases](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/bb839498(v=sql.105))
 * [Completing a Conversation Between Instances](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/bb839483(v=sql.105))
 * [Implementing Internal Activation](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/cc281517(v=sql.105))
-
+ 
 ## Scenarios
 * [Manage Your Tasks With Service Broker](https://docs.microsoft.com/en-us/previous-versions/technet-magazine/cc160787(v=msdn.10)?redirectedfrom=MSDN)
 * [Building Asynchronous Databases with Service Broker](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2005/administrator/ms345113(v=sql.90)?redirectedfrom=MSDN)
